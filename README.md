@@ -10,5 +10,4 @@ Ce dépôt contient une série de travaux pratiques visant à enseigner les conc
 
 ## Prérequis
 
-- :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+
